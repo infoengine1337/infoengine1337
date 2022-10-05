@@ -12,6 +12,7 @@ DjangoならECサイト実装、FlaskならツールのWebアプリ実装か
 HacktheBoxにはいつか手を出します  
 
 いつかデカイなにかを成し遂げたいと思い、臥薪嘗胆の日々  
+基本バカでスペックが低いですが、仲良くしてください
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=infoengine1337&count_private=true&show_icons=true" />
